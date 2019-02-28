@@ -1,5 +1,7 @@
 <h1>Web Engineering Project</h1>
 <h2>by Syed Muhamad Danial Bin Syed Hedzer (syedmdanial)<h2>
+ 
+ BELAJAR.MY is a web based application to provide a platform for anyone to learn to things or even to provide the learning services.
 
 
 # CakePHP Application Skeleton
